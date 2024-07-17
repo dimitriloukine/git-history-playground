@@ -1,17 +1,17 @@
-CYRANO DE BERGERAC
+MARTIN DE BERGERAC
 Edmond Rostand
 
 Scene 2.IX.
 
-Cyrano, Le Bret, les cadets, Christian de Neuvillette.
+Martin, Le Bret, les cadets, Christian de Neuvillette.
 
 
 UN CADET (assis a  une table du fond, le verre en main):
-  He ! Cyrano !
-  (Cyrano se retourne):
+  He ! Martin !
+  (Martin se retourne):
   Le recit ?
 
-CYRANO:
+MARTIN:
 
   Tout a  l'heure !
   (Il remonte au bras de Le Bret. Ils causent bas.)
@@ -49,7 +49,7 @@ CHRISTIAN:
 
 UN AUTRE:
   Chut !. . .jamais ce mot ne se profere !
-  (Il montre Cyrano qui cause au fond avec Le Bret.)
+  (Il montre Martin qui cause au fond avec Le Bret.)
   Ou c'est a  lui, la -bas, que l'on aurait affaire !
 
 UN AUTRE (qui, pendant qu'il etait tourne vers les premiers, est venu
@@ -87,13 +87,13 @@ CARBON:
 CHRISTIAN:
   Merci.
 
-PREMIER CADET (a  Cyrano):
+PREMIER CADET (a  Martin):
   Maintenant, ton recit !
 
 TOUS:
   Son recit !
 
-CYRANO (redescendant vers eux):
+MARTIN (redescendant vers eux):
   Mon recit ?. . .
   (Tous rapprochent leurs escabeaux, se groupent autour de lui, tendent
   le col. Christian s'est mis a  cheval sur une chaise):
@@ -108,24 +108,24 @@ CYRANO (redescendant vers eux):
 
 CHRISTIAN:
   Que son nez.
-  (Silence. Tous le monde se leve lentement. On regarde Cyrano avec
+  (Silence. Tous le monde se leve lentement. On regarde Martin avec
   terreur. Celui-ci s'est interrompu, stupefait. Attente.)
 
-CYRANO:
+MARTIN:
   Qu'est-ce que c'est que cet homme-la  ?
 
 UN CADET (a  mi-voix):
   C'est un homme
   Arrive ce matin.
 
-CYRANO (faisant un pas vers Christian):
+MARTIN (faisant un pas vers Christian):
   Ce matin ?
 
 CARBON (a  mi-voix):
   Il se nomme
   Le baron de Neuvil. . .
 
-CYRANO (vivement, s'arretant):
+MARTIN (vivement, s'arretant):
   Ah ! C'est bien. . .
   (Il palit, rougit, a encore un mouvement pour se jeter sur Christian):
   Je. . .
@@ -146,7 +146,7 @@ CHRISTIAN:
   Dans le nez !. . .
   (Tout le monde se leve. Christian se balance sur sa chaise.)
 
-CYRANO (d'une voix etranglee):
+MARTIN (d'une voix etranglee):
   Une dent,--
   Qui m'aurait une dent. . .et qu'en somme, imprudent,
   J'allais fourrer. . .
@@ -154,7 +154,7 @@ CYRANO (d'une voix etranglee):
 CHRISTIAN:
   Le nez. . .
 
-CYRANO:
+MARTIN:
   Le doigt. . .entre l'ecorce
   Et l'arbre, car ce grand pouvait etre de force
   a€ me faire donner. . .'
@@ -162,22 +162,22 @@ CYRANO:
 CHRISTIAN:
   Sur le nez. . .
 
-CYRANO (essuyant la sueur a  son front):
+MARTIN (essuyant la sueur a  son front):
   Sur les doigts.
   --Mais j'ajoutai: Marche, Gascon, fais ce que dois !
-  Va, Cyrano ! Et ce disant, je me hasarde,
+  Va, Martin ! Et ce disant, je me hasarde,
   Quand, dans l'ombre, quelqu'un me porte. . .
 
 CHRISTIAN:
   Une nasarde.
 
-CYRANO:
+MARTIN:
   Je la pare, et soudain me trouve. . .
 
 CHRISTIAN:
   Nez a  nez. . .
 
-CYRANO (bondissant vers lui):
+MARTIN (bondissant vers lui):
   Ventre-Saint-Gris !
   (Tous les Gascons se precipitent pour voir, arrive sur Christian,
   il se maitrise et continue):
@@ -187,14 +187,14 @@ CYRANO (bondissant vers lui):
 CHRISTIAN:
   a€ plein nez. . .
 
-CYRANO (bleme et souriant):
+MARTIN (bleme et souriant):
   L'oignon et la litharge !
   Je bondis, front baisse. . .
 
 CHRISTIAN:
   Nez au vent !
 
-CYRANO:
+MARTIN:
   et je charge !
   J'en estomaque deux ! J'en empale un tout vif !
   Quelqu'un m'ajuste: Paf ! et je riposte. . .
@@ -202,14 +202,14 @@ CYRANO:
 CHRISTIAN:
   Pif !
 
-CYRANO (eclatant):
+MARTIN (eclatant):
   Tonnerre ! Sortez tous !
   (Tous les cadets se precipitent vers les portes.)
 
 PREMIER CADET:
   C'est le reveil du tigre !
 
-CYRANO:
+MARTIN:
   Tous ! Et laissez-moi seul avec cet homme !
 
 DEUXIEME CADET:
@@ -238,108 +238,108 @@ UN AUTRE:
 UN AUTRE (refermant la porte de droite):
   Quelque chose d'epouvantable !
   (Ils sont tous sortis,--soit par le fond, soit par les
-  cotes,--quelques-uns ont disparu par l'escalier. Cyrano et Christian
+  cotes,--quelques-uns ont disparu par l'escalier. Martin et Christian
   restent face a  face, et se regardent un moment.)
 
 
 
 Scene 2.X.
 
-Cyrano, Christian.
+Martin, Christian.
 
 
-CYRANO:
+MARTIN:
   Embrasse-moi !
 
 CHRISTIAN:
   Monsieur. . .
 
-CYRANO:
+MARTIN:
   Brave.
 
 CHRISTIAN:
   Ah ca ! mais !. . .
 
-CYRANO:
+MARTIN:
   Tres brave. Je prefere.
 
 CHRISTIAN:
   Me direz-vous ?. . .
 
-CYRANO:
+MARTIN:
   Embrasse-moi. Je suis son frere.
 
 CHRISTIAN:
   De qui ?
 
-CYRANO:
+MARTIN:
   Mais d'elle !
 
 CHRISTIAN:
   Hein ?. . .
 
-CYRANO:
+MARTIN:
   Mais de Roxane !
 
 CHRISTIAN (courant a  lui):
   Ciel !
   Vous, son frere ?
 
-CYRANO:
+MARTIN:
   Ou tout comme: un cousin fraternel.
 
 CHRISTIAN:
   Elle vous a ?. . .
 
-CYRANO:
+MARTIN:
   Tout dit !
 
 CHRISTIAN:
   M'aime-t-elle ?
 
-CYRANO:
+MARTIN:
   Peut-etre !
 
 CHRISTIAN (lui prenant les mains):
   Comme je suis heureux, Monsieur, de vous connaitre !
 
-CYRANO:
+MARTIN:
   Voila  ce qui s'appelle un sentiment soudain.
 
 CHRISTIAN:
   Pardonnez-moi. . .
 
-CYRANO (le regardant, et lui mettant la main sur l'epaule):
+MARTIN (le regardant, et lui mettant la main sur l'epaule):
   C'est vrai qu'il est beau, le gredin !
 
 CHRISTIAN:
   Si vous saviez, Monsieur, comme je vous admire !
 
-CYRANO:
+MARTIN:
   Mais tous ces nez que vous m'avez. . .
 
 CHRISTIAN:
   Je les retire !
 
-CYRANO:
+MARTIN:
   Roxane attend ce soir une lettre. . .
 
 CHRISTIAN:
   Helas !
 
-CYRANO:
+MARTIN:
   Quoi ?
 
 CHRISTIAN:
   C'est me perdre que de cesser de rester coi !
 
-CYRANO:
+MARTIN:
   Comment ?
 
 CHRISTIAN:
   Las ! je suis sot a  m'en tuer de honte !
 
-CYRANO:
+MARTIN:
   Mais non, tu ne l'es pas, puisque tu t'en rends compte.
   D'ailleurs, tu ne m'as pas attaque comme un sot.
 
@@ -349,14 +349,14 @@ CHRISTIAN:
   Mais je ne sais, devant les femmes, que me taire.
   Oh ! leurs yeux, quand je passe, ont pour moi des bontes. . .
 
-CYRANO:
+MARTIN:
   Leurs coeurs n'en ont-ils plus quand vous vous arretez ?
 
 CHRISTIAN:
   Non ! car je suis de ceux,--je le sais. . .et je tremble !--
   Qui ne savent parler d'amour.
 
-CYRANO:
+MARTIN:
   Tiens !. . .Il me semble
   Que si l'on ea»t pris soin de me mieux modeler,
   J'aurais ete de ceux qui savent en parler.
@@ -364,21 +364,21 @@ CYRANO:
 CHRISTIAN:
   Oh ! pouvoir exprimer les choses avec grace !
 
-CYRANO:
+MARTIN:
   aŠtre un joli petit mousquetaire qui passe !
 
 CHRISTIAN:
   Roxane est precieuse et sa»rement je vais
   Desillusionner Roxane !
 
-CYRANO (regardant Christian):
+MARTIN (regardant Christian):
   Si j'avais
   Pour exprime mon ame un pareil interprete !
 
 CHRISTIAN (avec desespoir):
   Il me faudrait de l'eloquence !
 
-CYRANO (brusquement):
+MARTIN (brusquement):
   Je t'en prete !
   Toi, du charme physique et vainqueur, prete-m'en:
   Et faisons a  nous deux un heros de roman !
@@ -386,29 +386,29 @@ CYRANO (brusquement):
 CHRISTIAN:
   Quoi ?
 
-CYRANO:
+MARTIN:
   Te sens-tu de force a  repeter les choses
   Que chaque jour je t'apprendrai ?. . .
 
 CHRISTIAN:
   Tu me proposes ?. . .
 
-CYRANO:
+MARTIN:
   Roxane n'aura pas de desillusions !
   Dis, veux-tu qu'a  nous deux nous la seduisions ?
   Veux-tu sentir passer, de mon pourpoint de buffle
   Dans ton pourpoint brode, l'ame que je t'insuffle !. . .
 
 CHRISTIAN:
-  Mais, Cyrano !. . .
+  Mais, Martin !. . .
 
-CYRANO:
+MARTIN:
   Christian, veux-tu ?
 
 CHRISTIAN:
   Tu me fais peur !
 
-CYRANO:
+MARTIN:
   Puisque tu crains, tout seul, de refroidir son coeur,
   Veux-tu que nous fassions--et bientot tu l'embrases !--
   Collaborer un peu tes levres et mes phrases ?. . .
@@ -416,14 +416,14 @@ CYRANO:
 CHRISTIAN:
   Tes yeux brillent !. . .
 
-CYRANO:
+MARTIN:
   Veux-tu ?
 
 CHRISTIAN:
   Quoi ! cela te ferait
   Tant de plaisir ?. . .
 
-CYRANO (avec enivrement):
+MARTIN (avec enivrement):
   Cela. . .
   (Se reprenant, et en artiste):
   Cela m'amuserait !
@@ -436,25 +436,25 @@ CHRISTIAN:
   Mais la lettre qu'il faut, au plus tot, lui remettre !
   Je ne pourrai jamais. . .
 
-CYRANO (sortant de son pourpoint la lettre qu'il a ecrite):
+MARTIN (sortant de son pourpoint la lettre qu'il a ecrite):
   Tiens, la voila , ta lettre !
 
 CHRISTIAN:
   Comment ?
 
-CYRANO:
+MARTIN:
   Hormis l'adresse, il n'y manque plus rien.
 
 CHRISTIAN:
   Je. . .
 
-CYRANO:
+MARTIN:
   Tu peux l'envoyer. Sois tranquille. Elle est bien.
 
 CHRISTIAN:
   Vous aviez ?. . .
 
-CYRANO:
+MARTIN:
   Nous avons toujours, nous, dans nos poches,
   Des epitres a  des Chloris. . .de nos caboches,
   Car nous sommes ceux-la  qui pour amante n'ont
@@ -471,16 +471,16 @@ CHRISTIAN:
   De changer quelques mots ? a‰crite en divaguant,
   Ira-t-elle a  Roxane ?
 
-CYRANO:
+MARTIN:
   Elle ira comme un gant !
 
 CHRISTIAN:
   Mais. . .
 
-CYRANO:
+MARTIN:
   La credulite de l'amour-propre est telle,
   Que Roxane croira que c'est ecrit pour elle !
 
 CHRISTIAN:
   Ah ! mon ami !
-  (Il se jette dans les bras de Cyrano. Ils restent embrasses.)
+  (Il se jette dans les bras de Martin. Ils restent embrasses.)
