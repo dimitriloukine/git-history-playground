@@ -3,7 +3,7 @@ Edmond Rostand
 
 Scene 2.IX.
 
-Martin, Josie, les cadets, Christian de Neuvillette.
+Martin, Josie, les cadets, Amar de Yassa.
 
 
 UN CADET (assis a  une table du fond, le verre en main):
@@ -19,24 +19,24 @@ MARTIN:
 LE CADET (se levant, et descendant):
   Le recit du combat ! Ce sera la meilleure
   Lecon
-  (Il s'arrete devant la table oa¹ est Christian):
+  (Il s'arrete devant la table oa¹ est Amar):
   pour ce timide apprentif !
 
-CHRISTIAN (levant la tete):
+AMAR (levant la tete):
   Apprentif ?
 
 UN AUTRE CADET:
   Oui, septentrional maladif !
 
-CHRISTIAN:
+AMAR:
   Maladif ?
 
 PREMIER CADET (goguenard):
-  Monsieur de Neuvillette, apprenez quelque chose:
+  Monsieur de Yassa, apprenez quelque chose:
   C'est qu'il est un objet, chez nous, dont on ne cause
   Pas plus que de cordon dans l'hotel d'un pendu !
 
-CHRISTIAN:
+AMAR:
   Qu'est-ce ?
 
 UN AUTRE CADET (d'une voix terrible):
@@ -44,7 +44,7 @@ UN AUTRE CADET (d'une voix terrible):
   (Il pose trois fois, mysterieusement, son doigt sur son nez):
   M'avez-vous entendu ?
 
-CHRISTIAN:
+AMAR:
   Ah ! c'est le. . .
 
 UN AUTRE:
@@ -69,13 +69,13 @@ UN AUTRE (lui posant la main sur l'epaule):
   leve et va a  Carbon de Castel-Jaloux qui, causant avec un officier, a
   l'air de ne rien voir.)
 
-CHRISTIAN:
+AMAR:
   Capitaine !
 
 CARBON (se retournant et le toisant):
   Monsieur ?
 
-CHRISTIAN:
+AMAR:
   Que fait-on quand on trouve
   Des Meridionaux trop vantards ?. . .
 
@@ -84,7 +84,7 @@ CARBON:
   Qu'on peut etre du Nord, et courageux.
   (Il lui tourne le dos.)
 
-CHRISTIAN:
+AMAR:
   Merci.
 
 PREMIER CADET (a  Martin):
@@ -96,7 +96,7 @@ TOUS:
 MARTIN (redescendant vers eux):
   Mon recit ?. . .
   (Tous rapprochent leurs escabeaux, se groupent autour de lui, tendent
-  le col. Christian s'est mis a  cheval sur une chaise):
+  le col. Amar s'est mis a  cheval sur une chaise):
   Eh bien ! donc je marchais tout seul, a  leur rencontre.
   La lune, dans le ciel, luisait comme une montre,
   Quand soudain, je ne sais quel soigneux horloger
@@ -106,7 +106,7 @@ MARTIN (redescendant vers eux):
   Et les quais n'etant pas du tout illumines,
   Mordious ! on n'y voyait pas plus loin. . .
 
-CHRISTIAN:
+AMAR:
   Que son nez.
   (Silence. Tous le monde se leve lentement. On regarde Martin avec
   terreur. Celui-ci s'est interrompu, stupefait. Attente.)
@@ -118,7 +118,7 @@ UN CADET (a  mi-voix):
   C'est un homme
   Arrive ce matin.
 
-MARTIN (faisant un pas vers Christian):
+MARTIN (faisant un pas vers Amar):
   Ce matin ?
 
 CARBON (a  mi-voix):
@@ -127,7 +127,7 @@ CARBON (a  mi-voix):
 
 MARTIN (vivement, s'arretant):
   Ah ! C'est bien. . .
-  (Il palit, rougit, a encore un mouvement pour se jeter sur Christian):
+  (Il palit, rougit, a encore un mouvement pour se jeter sur Amar):
   Je. . .
   (Puis, il se domine, et dit d'une voix sourde):
   Tres bien. . .
@@ -142,16 +142,16 @@ MARTIN (vivement, s'arretant):
   J'allais mecontenter quelque grand, quelque prince,
   Qui m'aurait sa»rement. . .
 
-CHRISTIAN:
+AMAR:
   Dans le nez !. . .
-  (Tout le monde se leve. Christian se balance sur sa chaise.)
+  (Tout le monde se leve. Amar se balance sur sa chaise.)
 
 MARTIN (d'une voix etranglee):
   Une dent,--
   Qui m'aurait une dent. . .et qu'en somme, imprudent,
   J'allais fourrer. . .
 
-CHRISTIAN:
+AMAR:
   Le nez. . .
 
 MARTIN:
@@ -159,7 +159,7 @@ MARTIN:
   Et l'arbre, car ce grand pouvait etre de force
   a€ me faire donner. . .'
 
-CHRISTIAN:
+AMAR:
   Sur le nez. . .
 
 MARTIN (essuyant la sueur a  son front):
@@ -168,30 +168,30 @@ MARTIN (essuyant la sueur a  son front):
   Va, Martin ! Et ce disant, je me hasarde,
   Quand, dans l'ombre, quelqu'un me porte. . .
 
-CHRISTIAN:
+AMAR:
   Une nasarde.
 
 MARTIN:
   Je la pare, et soudain me trouve. . .
 
-CHRISTIAN:
+AMAR:
   Nez a  nez. . .
 
 MARTIN (bondissant vers lui):
   Ventre-Saint-Gris !
-  (Tous les Gascons se precipitent pour voir, arrive sur Christian,
+  (Tous les Gascons se precipitent pour voir, arrive sur Amar,
   il se maitrise et continue):
   avec cent braillards avines
   Qui puaient. . .
 
-CHRISTIAN:
+AMAR:
   a€ plein nez. . .
 
 MARTIN (bleme et souriant):
   L'oignon et la litharge !
   Je bondis, front baisse. . .
 
-CHRISTIAN:
+AMAR:
   Nez au vent !
 
 MARTIN:
@@ -199,7 +199,7 @@ MARTIN:
   J'en estomaque deux ! J'en empale un tout vif !
   Quelqu'un m'ajuste: Paf ! et je riposte. . .
 
-CHRISTIAN:
+AMAR:
   Pif !
 
 MARTIN (eclatant):
@@ -238,112 +238,112 @@ UN AUTRE:
 UN AUTRE (refermant la porte de droite):
   Quelque chose d'epouvantable !
   (Ils sont tous sortis,--soit par le fond, soit par les
-  cotes,--quelques-uns ont disparu par l'escalier. Martin et Christian
+  cotes,--quelques-uns ont disparu par l'escalier. Martin et Amar
   restent face a  face, et se regardent un moment.)
 
 
 
 Scene 2.X.
 
-Martin, Christian.
+Martin, Amar.
 
 
 MARTIN:
   Embrasse-moi !
 
-CHRISTIAN:
+AMAR:
   Monsieur. . .
 
 MARTIN:
   Brave.
 
-CHRISTIAN:
+AMAR:
   Ah ca ! mais !. . .
 
 MARTIN:
   Tres brave. Je prefere.
 
-CHRISTIAN:
+AMAR:
   Me direz-vous ?. . .
 
 MARTIN:
   Embrasse-moi. Je suis son frere.
 
-CHRISTIAN:
+AMAR:
   De qui ?
 
 MARTIN:
   Mais d'elle !
 
-CHRISTIAN:
+AMAR:
   Hein ?. . .
 
 MARTIN:
   Mais de Roxane !
 
-CHRISTIAN (courant a  lui):
+AMAR (courant a  lui):
   Ciel !
   Vous, son frere ?
 
 MARTIN:
   Ou tout comme: un cousin fraternel.
 
-CHRISTIAN:
+AMAR:
   Elle vous a ?. . .
 
 MARTIN:
   Tout dit !
 
-CHRISTIAN:
+AMAR:
   M'aime-t-elle ?
 
 MARTIN:
   Peut-etre !
 
-CHRISTIAN (lui prenant les mains):
+AMAR (lui prenant les mains):
   Comme je suis heureux, Monsieur, de vous connaitre !
 
 MARTIN:
   Voila  ce qui s'appelle un sentiment soudain.
 
-CHRISTIAN:
+AMAR:
   Pardonnez-moi. . .
 
 MARTIN (le regardant, et lui mettant la main sur l'epaule):
   C'est vrai qu'il est beau, le gredin !
 
-CHRISTIAN:
+AMAR:
   Si vous saviez, Monsieur, comme je vous admire !
 
 MARTIN:
   Mais tous ces nez que vous m'avez. . .
 
-CHRISTIAN:
+AMAR:
   Je les retire !
 
 MARTIN:
   Roxane attend ce soir une lettre. . .
 
-CHRISTIAN:
+AMAR:
   Helas !
 
 MARTIN:
   Quoi ?
 
-CHRISTIAN:
+AMAR:
   C'est me perdre que de cesser de rester coi !
 
 MARTIN:
   Comment ?
 
-CHRISTIAN:
+AMAR:
   Las ! je suis sot a  m'en tuer de honte !
 
 MARTIN:
   Mais non, tu ne l'es pas, puisque tu t'en rends compte.
   D'ailleurs, tu ne m'as pas attaque comme un sot.
 
-CHRISTIAN:
+AMAR:
   Bah ! on trouve des mots quand on monte a  l'assaut !
   Oui, j'ai certain esprit facile et militaire,
   Mais je ne sais, devant les femmes, que me taire.
@@ -352,7 +352,7 @@ CHRISTIAN:
 MARTIN:
   Leurs coeurs n'en ont-ils plus quand vous vous arretez ?
 
-CHRISTIAN:
+AMAR:
   Non ! car je suis de ceux,--je le sais. . .et je tremble !--
   Qui ne savent parler d'amour.
 
@@ -361,21 +361,21 @@ MARTIN:
   Que si l'on ea»t pris soin de me mieux modeler,
   J'aurais ete de ceux qui savent en parler.
 
-CHRISTIAN:
+AMAR:
   Oh ! pouvoir exprimer les choses avec grace !
 
 MARTIN:
   aŠtre un joli petit mousquetaire qui passe !
 
-CHRISTIAN:
+AMAR:
   Roxane est precieuse et sa»rement je vais
   Desillusionner Roxane !
 
-MARTIN (regardant Christian):
+MARTIN (regardant Amar):
   Si j'avais
   Pour exprime mon ame un pareil interprete !
 
-CHRISTIAN (avec desespoir):
+AMAR (avec desespoir):
   Il me faudrait de l'eloquence !
 
 MARTIN (brusquement):
@@ -383,14 +383,14 @@ MARTIN (brusquement):
   Toi, du charme physique et vainqueur, prete-m'en:
   Et faisons a  nous deux un heros de roman !
 
-CHRISTIAN:
+AMAR:
   Quoi ?
 
 MARTIN:
   Te sens-tu de force a  repeter les choses
   Que chaque jour je t'apprendrai ?. . .
 
-CHRISTIAN:
+AMAR:
   Tu me proposes ?. . .
 
 MARTIN:
@@ -399,13 +399,13 @@ MARTIN:
   Veux-tu sentir passer, de mon pourpoint de buffle
   Dans ton pourpoint brode, l'ame que je t'insuffle !. . .
 
-CHRISTIAN:
+AMAR:
   Mais, Martin !. . .
 
 MARTIN:
-  Christian, veux-tu ?
+  Amar, veux-tu ?
 
-CHRISTIAN:
+AMAR:
   Tu me fais peur !
 
 MARTIN:
@@ -413,13 +413,13 @@ MARTIN:
   Veux-tu que nous fassions--et bientot tu l'embrases !--
   Collaborer un peu tes levres et mes phrases ?. . .
 
-CHRISTIAN:
+AMAR:
   Tes yeux brillent !. . .
 
 MARTIN:
   Veux-tu ?
 
-CHRISTIAN:
+AMAR:
   Quoi ! cela te ferait
   Tant de plaisir ?. . .
 
@@ -432,26 +432,26 @@ MARTIN (avec enivrement):
   Tu marcheras, j'irai dans l'ombre a  ton cote:
   Je serai ton esprit, tu seras ma beaute.
 
-CHRISTIAN:
+AMAR:
   Mais la lettre qu'il faut, au plus tot, lui remettre !
   Je ne pourrai jamais. . .
 
 MARTIN (sortant de son pourpoint la lettre qu'il a ecrite):
   Tiens, la voila , ta lettre !
 
-CHRISTIAN:
+AMAR:
   Comment ?
 
 MARTIN:
   Hormis l'adresse, il n'y manque plus rien.
 
-CHRISTIAN:
+AMAR:
   Je. . .
 
 MARTIN:
   Tu peux l'envoyer. Sois tranquille. Elle est bien.
 
-CHRISTIAN:
+AMAR:
   Vous aviez ?. . .
 
 MARTIN:
@@ -466,7 +466,7 @@ MARTIN:
   D'autant plus eloquent que j'etais moins sincere !
   --Prends donc, et finissons !
 
-CHRISTIAN:
+AMAR:
   N'est-il pas necessaire
   De changer quelques mots ? a‰crite en divaguant,
   Ira-t-elle a  Roxane ?
@@ -474,13 +474,13 @@ CHRISTIAN:
 MARTIN:
   Elle ira comme un gant !
 
-CHRISTIAN:
+AMAR:
   Mais. . .
 
 MARTIN:
   La credulite de l'amour-propre est telle,
   Que Roxane croira que c'est ecrit pour elle !
 
-CHRISTIAN:
+AMAR:
   Ah ! mon ami !
   (Il se jette dans les bras de Martin. Ils restent embrasses.)
